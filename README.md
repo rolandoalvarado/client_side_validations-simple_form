@@ -67,6 +67,12 @@ Per-input options are done with `:validate`
 
 [We are very thankful for the many contributors](https://github.com/dockyard/client_side_validations-simple_form/graphs/contributors)
 
+## Updated by ##
+
+[Rolando Alvarado](http://ph.linkedin.com/in/rolandoalvarado88)
+
+- Updated branch is develop.
+
 ## Versioning ##
 
 This gem follows [Semantic Versioning](http://semver.org)

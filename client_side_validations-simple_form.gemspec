@@ -2,11 +2,11 @@
 require File.expand_path('../lib/client_side_validations/simple_form/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["Brian Cardarella"]
-  gem.email         = ["bcardarella@gmail.com"]
+  gem.authors       = ["Rolando Alvarado"]
+  gem.email         = ["rorroland@gmail.com"]
   gem.description   = %q{SimpleForm Plugin for ClientSideValidaitons}
   gem.summary       = %q{SimpleForm Plugin for ClientSideValidations}
-  gem.homepage      = 'https://github.com/dockyard/client_side_validations-simple_form'
+  gem.homepage      = 'https://github.com/rolandoalvarado/client_side_validations-simple_form'
 
   gem.files         = `git ls-files -- {lib/*,vendor/*,*.gemspec}`.split("\n")
   gem.name          = 'client_side_validations-simple_form'
