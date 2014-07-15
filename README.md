@@ -81,17 +81,3 @@ Major and minor version numbers will follow `Rails`'s major and
 minor version numbers. For example,
 `client_side_validations-simple_form-2.0.0` will be compatible up to 
 `~> simple_form-2.0.0`
-
-## Want to help? ##
-
-Please do! We are always looking to improve this gem. Please see our
-[Contribution Guidelines](https://github.com/dockyard/client_side_validations-simple_form/blob/master/CONTRIBUTING.md)
-on how to properly submit issues and pull requests.
-
-## Legal ##
-
-[DockYard](http://dockyard.com), LLC &copy; 2012
-
-[@dockyard](http://twitter.com/dockyard)
-
-[Licensed under the MIT license](http://www.opensource.org/licenses/mit-license.php)
